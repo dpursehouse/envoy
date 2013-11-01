@@ -1,1 +1,3 @@
+dist/
+envoy.egg-info/
 *.pyc
